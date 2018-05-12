@@ -123,9 +123,9 @@ Often, these skilled people come after a large part of the functionality of the 
     * [Wiki](https://github.com/Enterlucent/open-space-game/wiki)
     * [GitHub Pages](https://www.open-space-game.org/)
 4. Make any changes or additions to the development branch
-    * Fetch the origin branch often to ensure you stay in sync
-5. Submit a pull request that includes just your changes.
-    * Make sure to give it the label of 'documentation' on the pull request.
+    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+5. Submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just your changes.
+    * Make sure to give it the label of 'documentation' on the [Pull Request](https://help.github.com/articles/about-pull-requests/).
     * Try to add as much detail to your request as possible
 6. Others may ask questions or request changes so make sure to check back, or enable the notification options!
 
@@ -151,9 +151,9 @@ When you have the next best feature for the open-space-game project you will fir
 
 ## How to Open a Feature Request<a id="how-to-open-a-feature-request"></a>
 1. Determine if the same or similar request already exists for what you had in mind.
-    * Game design Feature Requests belong in the main project [Issues](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%enhancement+is%3Aall) so check there first.
+    * Game design [Feature Requests](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%enhancement+is%3Aall) belong in the main project Issues so check there first.
     * If one does exist, feel free to expand upon it by commenting on the issue but there's no need to open a new one.
-2. Create a "Feature Request" on the [Issues](https://github.com/Enterlucent/open-space-game/issues/new?template=Feature_request.md) page.
+2. Create a [Feature Request](https://github.com/Enterlucent/open-space-game/issues/new?template=Feature_request.md) on the Issues page.
     * Add the "enhancement" label and the "asset", "coding" or "documentation" labels as applicable
     * Make sure that you are very detailed with what you think the feature should accomplish.
     * If the Feature Request requires assets be created then make sure they are fully explained
@@ -185,11 +185,12 @@ Programmers are responsible for implementing the features presented by Game Desi
     * [Project](https://github.com/Enterlucent/open-space-game/)
     * [Studio](https://github.com/Enterlucent/open-space-game-studio/)
 4. Make any changes or additions to the development branch
-    * Fetch the origin branch often to ensure you stay in sync
-5. Submit a pull request that includes just your changes.
-    * Make sure to give it the label of 'coding' on the pull request.
+    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+5. Submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just your changes.
+    * Make sure to give it the label of 'coding' on the [Pull Request](https://help.github.com/articles/about-pull-requests/).
     * Try to add as much detail to your request as possible
 6. Others may ask questions or request changes so make sure to check back, or enable the notification options!
+7. The [Pull Request](https://help.github.com/articles/about-pull-requests/) will be reviewed and a determination will be made to merge the request.
 
 ## Pull Request Checklist
 
@@ -199,8 +200,8 @@ Programmers are responsible for implementing the features presented by Game Desi
 - [ ] I have added code level comments and any member, class, interface, property, etc documentation
 - [ ] I have the most recent repository changes
 - [ ] I have set up your GPG settings so that your commits are verified
-- [ ] The code I'm submitting has an issue associated and that issue is referenced in my pull request
-- [ ] I have properly labeled my pull request
+- [ ] The code I'm submitting has an issue associated and that issue is referenced in my [Pull Request](https://help.github.com/articles/about-pull-requests/)
+- [ ] I have properly labeled my [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 # Artist<a id="artist"></a><sup>[^^](#quick-start)</sup>
 The title Artist, in this respect, covers a wide array of potential contributors skill sets. From audio to particle systems to models and textures, there is a near endless need for assets and no lack of need for their refinement and optimization.    What sets a video game artist into a league of their own is the equally wide array of technical knowledge surrounding the implementation of their art.
@@ -209,9 +210,9 @@ The title Artist, in this respect, covers a wide array of potential contributors
 1. Look at the issue tracker for game asset [Feature Requests](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Aassets,enhancement+is%3Aopen)
 2. [Fork](https://help.github.com/articles/fork-a-repo/) the [Studio](https://github.com/Enterlucent/open-space-game-studio) repository
 3. Make any changes or additions to the development branch
-    * Fetch the origin branch often to ensure you stay in sync
-4. Submit a pull request that includes just your changes.
-    * Make sure to give it the label of 'assets' on the pull request.
+    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+4. Submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just your changes.
+    * Make sure to give it the label of 'assets' on the [Pull Request](https://help.github.com/articles/about-pull-requests/).
     * Try to add as much detail to your request as possible
 5. Others may ask questions or request changes so make sure to check back, or enable the notification options!
 
