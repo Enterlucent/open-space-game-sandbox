@@ -3,7 +3,7 @@
 * [How to Open a Bug Report](#how-to-open-a-bug-report)
 * [How to Open a Feature Request](#how-to-open-a-feature-request)
 * [How change/add to the documentation?](#how-to-find-programing-tasks)
-* [How to Find Program Tasks](#how-to-find-programing-tasks)
+* [How to Find Programing Tasks](#how-to-find-programing-tasks)
 * [How to Find Creative Tasks](#how-to-find-creative-tasks)
 
 # Introduction
