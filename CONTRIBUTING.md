@@ -1,4 +1,5 @@
 # Quick Start<a id="quick-start"></a>
+* [How to Get Help](#how-to-get-help)
 * [How to Open a Support Question](#how-to-open-a-support-question)
 * [How to Open a Bug Report](#how-to-open-a-bug-report)
 * [How to Open a Feature Request](#how-to-open-a-feature-request)
@@ -11,15 +12,24 @@ Thank you for taking a look at open-space-game.  With the help of potential cont
 
 We hope that the following document will help you to better understand how to find something to do, how to go about doing that thing and then how to share that with the rest of the community.  We understand that it's very frustrating having a desire to help out but not knowing where to start or, you know where to start, but lack the detailed instructions for doing something you already know you want to do.
 
+## How to Get Help
+* Documentation - There is documentation for most aspects of the game, choose one that most closely matches your needs
+    * [Project](https://github.com/Enterlucent/open-space-game/Documentation/)
+    * [Assets](https://github.com/Enterlucent/open-space-game-assets/Documentation/)
+    * [Studio](https://github.com/Enterlucent/open-space-game-studio/Documentation/)
+    * [Wiki](https://github.com/Enterlucent/open-space-game/wiki/) - https://github.com/Enterlucent/open-space-game/wiki
+* Communication - There is a project [Discord](https://discord.gg/zk3NZEc) server if you'd like to join it
+* [Support Questions](#how-to-open-a-support-question) - Check to see if any once else has had the same question.
+
 If ever you can't find the answers to the questions you have (and that might be often) we have tried to make getting those answers as easy as possible.
 
-## How to Get Help<a id="how-to-open-a-support-question"></a>
+## How to Open Support Question<a id="how-to-open-a-support-question"></a>
 1. Determine if your question has already been asked by others
     * There are a number of sub-projects that comprise open-space-game so you may want to start by finding the sub-project that best suits your question
-        * [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall) - https://github.com/Enterlucent/open-space-game
-        * [Assets](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall) - https://github.com/Enterlucent/open-space-game-studio
-        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall) - https://github.com/Enterlucent/open-space-game/wiki
-        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall) - https://github.com/Enterlucent/open-space-game.github.io
+        * [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall)
+        * [Assets](https://github.com/Enterlucent/open-space-game-assets/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall)
+        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall)
+        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Aquestion+is%3Aall)
     * If you find the question then there's no need to open another ticket.
     * If you do not feel the question has been thoroughly enough answer, then comment on it and ask for more clarification
 2. Create a [Question Issue](https://github.com/Enterlucent/open-space-game/issues/new?template=Custom.md)
@@ -63,15 +73,19 @@ These are the true warriors, fighting in the trenches to bring a better experien
 
 ## How to Open a Bug Report<a id="how-to-submit-a-bug-report"></a>
 1. Determine if the bug has already been reported
-    * Start by searching the [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall), [Assets](https://github.com/Enterlucent/open-space-game-assets/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall), [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall), or [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall) Issues
+    * Start by searching the following:
+        * [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [Assets](https://github.com/Enterlucent/open-space-game-assets/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
     * If you find that the issue has already been opened then a new issue is not needed.
     * If you want to add to an issue that has already been open feel free to contribute your experience or observations about the bug
 2. Create a "Bug Report" on the Issues page.
     * Choose the issue page that is most appropriate to the bug you are experiencing
-        * [Project](https://github.com/Enterlucent/open-space-game/issues/new?template=Bug_report.md) - https://github.com/Enterlucent/open-space-game
-        * [Assets](https://github.com/Enterlucent/open-space-game-assets/issues/new?template=Bug_report.md) - https://github.com/Enterlucent/open-space-game-assets
-        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues/new?template=Bug_report.md) - https://github.com/Enterlucent/open-space-studio
-        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues/new?template=Bug_report.md) - https://github.com/Enterlucent/open-space-game.github.io
+        * [Project](https://github.com/Enterlucent/open-space-game/issues/new?template=Bug_report.md)
+        * [Assets](https://github.com/Enterlucent/open-space-game-assets/issues/new?template=Bug_report.md)
+        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues/new?template=Bug_report.md)
+        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues/new?template=Bug_report.md)
     * Add the "bug" label and the "asset", "coding" or "documentation" labels as applicable
     * Make sure that you are very detailed with what you are experiencing
 3. Check back often, or enable the notification options, in case others have questions or need further clarification
@@ -89,16 +103,22 @@ Often, these skilled people come after a large part of the functionality of the 
 
 ## How to Submit Documentation<a id="how-to-find-programing-tasks"></a>
 1. Determine if the documentation already exists that you want to create.
-    * Since documentation has the same review standards as logic or assets, one should start by searching the [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall), [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall), or [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall) Issues
-    * Sometimes things slip through the cracks so if you don't find anything listed in the Issues then you will want to check the [Wiki](https://github.com/Enterlucent/open-space-game/wiki) and then [GitHub Pages](https://www.open-space-game.org/) themselves
-    * Finally if you would like to try to speak to a real person you can join the [Discord](https://discord.gg/zk3NZEc) server to see if a moderator or channel member can point you in the right direction.
+    * Since documentation has the same review standards as logic or assets, one should start by searching the following:
+        * [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [Assets](https://github.com/Enterlucent/open-space-game-assets/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+        * [GitHub Page](https://github.com/Enterlucent/open-space-game.github.io/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+    * Sometimes things slip through the cracks so if you don't find anything listed in the Issues then you will want to check formal documents
+        * [Wiki](https://github.com/Enterlucent/open-space-game/wiki)
+        * [GitHub Pages](https://www.open-space-game.org/)
+    * Finally if you would like to try to speak to a real person you can join the [Discord](https://discord.gg/zk3NZEc) server to see if a moderator or channel member can help give you more information.
 2. Fork the repository for the documentation of need
-    * [Project](https://github.com/Enterlucent/open-space-game/tree/master/docs) - https://github.com/Enterlucent/open-space-game
-    * [Studio](https://github.com/Enterlucent/open-space-game-studio/tree/master/docs) - https://github.com/Enterlucent/open-space-game-studio
+    * [Project](https://github.com/Enterlucent/open-space-game/tree/master/docs)
+    * [Studio](https://github.com/Enterlucent/open-space-game-studio/tree/master/docs)
     * [Wiki](https://github.com/Enterlucent/open-space-game/wiki) - https://github.com/Enterlucent/open-space-game/wiki
-    * [GitHub Pages](https://www.open-space-game.org/) - https://github.com/Enterlucent/open-space-game.github.io
+    * [GitHub Pages](https://www.open-space-game.org/)
 3. Make any changes or additions to the development branch
-    * Fetch the branch often to ensure you stay in sync
+    * Fetch the origin branch often to ensure you stay in sync
 4. Submit a pull request that includes just your changes.
     * Make sure to give it the label of 'documentation' on the pull request.
     * Try to add as much detail to your request as possible
@@ -140,7 +160,9 @@ When you have the next best feature for the open-space-game project you will fir
 Programmers are responsible for implementing the features presented by Game Designers and managing the assets created by Artists.
 
 ## How to Find Something TODO<a id="how-to-find-programing-tasks"></a>
-1. Look on the different issue trackers [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall) and [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+1. Look on the different issue trackers:
+    * [Project](https://github.com/Enterlucent/open-space-game/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
+    * [Studio](https://github.com/Enterlucent/open-space-game-studio/issues?utf8=%E2%9C%93&q=label%3Adocumentation+is%3Aall)
     * See if there are any issues that are not assigned for which you think you could complete
     * Ask questions about implementation on the Issue thread and/or join the [Discord](https://discord.gg/zk3NZEc) server to talk with people in real time.
 2. Assist Team Members/Contributor already assigned to a project
@@ -149,16 +171,17 @@ Programmers are responsible for implementing the features presented by Game Desi
         * if you fundamentally disagree with an approach or implementation you are free to voice that concern in the issue and can ultimately file a Feature Request to change the implementation or approach in the future.
     * Not all Programmers or Issues lend themselves to assistance so please do not take it personally if the Programmer doesn't want/need assistance.
 3. Familiarize yourself with the code base (the development branch is where all new code is submitted before being merged into the master branch)
-    * [Project](https://github.com/Enterlucent/open-space-game/tree/master/docs) - https://github.com/Enterlucent/open-space-game
-    * [Studio](https://github.com/Enterlucent/open-space-game-studio/tree/master/docs) - https://github.com/Enterlucent/open-space-game-studio
+    * [Project](https://github.com/Enterlucent/open-space-game/tree/master/docs)
+    * [Studio](https://github.com/Enterlucent/open-space-game-studio/tree/master/docs)
 
 ## Pull Request Checklist
 
 - [ ] Code follows the white-spacing of the rest of the project.    Often formatting your code in visual studio/MonoDevelop will be enough, however, if you use visual studio then we provide a open-space-game specific [C# Editor Settings](https://github.com/Enterlucent/open-space-game/blob/master/.github/open-space-game.vssettings)
-- [ ] I have added code level commends and any member, class, interface, property, etc documentation
+- [ ] I have added code level comments and any member, class, interface, property, etc documentation
 - [ ] I have the most recent repository changes
 - [ ] I have set up your GPG settings so that your commits are verified
 - [ ] The code I'm submitting has an issue associated and that issue is referenced in my pull request
+- [ ] I have properly labeled my pull request
 
 # Artist<a id="artist"></a><sup>[^^](#quick-start)</sup>
 The title Artist, in this respect, covers a wide array of potential contributors skill sets. From audio to particle systems to models and textures, there is a near endless need for assets and no lack of need for their refinement and optimization.    What sets a video game artist into a league of their own is the equally wide array of technical knowledge surrounding the implementation of their art.
