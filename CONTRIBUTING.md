@@ -41,9 +41,6 @@ If ever you can't find the answers to the questions you have (and that might be 
 3. Check back, or enable the notification options, to see the answer to your question
     * Keep in mind that everyone is here in their free time and there may be gaps when responses are slow.    Feel free to set the notification settings for the question so you'll know immediately when its answered.
 
-There are a number of ways that you can directly contribute, even if you are not a programmer or an artist.  Documents are always needing to be read, re-read and updated as things change with in the project and to correct those pesky grammatical and spelling bugs that seem to creep in.  In addition, tutorials and explanation articles are always welcome, as well as bug related tasks (finding and reporting them, and detailed bug investigations), feature request research and of course we'll take code, art and Unity asset submissions as well.
-
-When contributing please take note that we subscribe to the [Contributor Covenant Code of Conduct](https://github.com/Enterlucent/open-space-game/blob/master/.github/CODE_OF_CONDUCT.md) and we expect all contributors to abide by the code contained.  Please take a moment to review this document if you have not already.  If this is your first open source project you may also wish to read GitHub's [How To Contribute](https://opensource.guide/how-to-contribute/) guide.
 
 # Getting Started
 In every game studio the tasks are broken down into manageable parts.    Those parts are then worked on by people who have the desire and the talent to get those tasks accomplished.  These tasks often fall into a number of specific roles:
@@ -57,7 +54,11 @@ In every game studio the tasks are broken down into manageable parts.    Those p
 
 There can be many more roles but these are the ones that we will focus on throughout the rest of this document.
 
+There are a number of ways that you can directly contribute, even if you are not a programmer or an artist.  Documents are always needing to be read, re-read and updated as things change with in the project and to correct those pesky grammatical and spelling bugs that seem to creep in.  In addition, tutorials and explanation articles are always welcome, as well as bug related tasks (finding and reporting them, and detailed bug investigations), feature request research and of course we'll take code, art and Unity asset submissions as well.
+
 Often people will end up wearing many hats, where an artist might contribute some documentation or provide a crucial bug fix, a programmer might try their hand at some art assets and Technical Writers might feel the need to evangelize the game.  These roles are in no way meant as a limitation but as a organization tool for work that needs to be performed.
+
+When contributing please take note that we subscribe to the [Contributor Covenant Code of Conduct](https://github.com/Enterlucent/open-space-game/blob/master/.github/CODE_OF_CONDUCT.md) and we expect all contributors to abide by the code contained.  Please take a moment to review this document if you have not already.  If this is your first open source project you may also wish to read GitHub's [How To Contribute](https://opensource.guide/how-to-contribute/) guide.
 
 # Evangelist<a id="evangelist"></a><sup>[^^](#quick-start)</sup>
 This is by far the most open-ended of the roles as there is no telling who might find our game fun and become impassioned enough to tell others; and we like it like that.  If you feel the need to express your love for open-space-game then we encourage you, however, there are some things we would rather you NOT do:
