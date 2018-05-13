@@ -1,5 +1,5 @@
 # Quick Start<a id="quick-start"></a>
-* [How to Get Help](#how-to-get-help)
+* [How to Get Information](#how-to-get-information)
 * [How to Open a Support Question](#how-to-open-a-support-question)
 * [How to Open a Bug Report](#how-to-open-a-bug-report)
 * [How to Open a Feature Request](#how-to-open-a-feature-request)
@@ -10,11 +10,11 @@
 # Introduction
 Thank you for taking a look at open-space-game.  With the help of potential contributors, like you, we hope to make this one of the best SIM-RTS-RPG-FPS (hew!) games out there.
 
-We hope that the following document will help you to better understand how to find something to do, how to go about doing that thing and then how to share that with the rest of the community.  We understand that it's very frustrating having a desire to help out but not knowing where to start or, you know where to start, but lack the detailed instructions for doing something you already know you want to do.
+The following document was put together to help you to better understand how to find something to do, how to go about doing that thing and then how to share that with the rest of the community.  We understand that it's very frustrating having a desire to help out but not knowing where to start or, you know where to start, but lack the detailed instructions for doing something you already know you want to do.
 
 Things always go better when you have someone you can ask questions of, and here its no different.  One of the best ways to determine how you might want to contribute is to understand where the project is and the direction its headed.
 
-## How to Get Help<a id="how-to-get-help"></a>
+## How to Get Information<a id="how-to-get-information"></a>
 * Documentation - There is documentation for most aspects of the game, choose those that most closely match your needs
     * [Project](https://github.com/Enterlucent/open-space-game/wiki/)
     * [Studio](https://github.com/Enterlucent/open-space-game-studio/wiki/)
@@ -194,21 +194,21 @@ Programmers are responsible for implementing the features presented by Game Desi
     * Ask questions about implementation on the Issue thread and/or join the [Discord](https://discord.gg/zk3NZEc) server to talk with people in real time.
 2. Assist Team Members/Contributor already assigned to an Issue
     * If a Team Member/Contributor is working on something you feel you are particularly good with, ask if they would like assistance and if there is anything you can do to help.
-    * Whoever is assigned to an Issue is ultimately responsible for it and has the final decision on how that Issue will be implemented.
+    * Whoever is assigned to an Issue is ultimately responsible for it and has the final say on how that Issue will be implemented.
         * if you fundamentally disagree with an approach or implementation you are free to voice that concern in the Issue and can ultimately file a Feature Request to change the implementation or approach in the future.
     * Not all Programmers or Issues lend themselves to assistance so please do not take it personally if the Programmer doesn't want/need assistance.
-3. Familiarize yourself with the code base (the development branch is where all new code is submitted before being merged into the master branch)
+3. Familiarize yourself with the code base
     * [Project](https://github.com/Enterlucent/open-space-game/)
     * [Studio](https://github.com/Enterlucent/open-space-game-studio/)
 
 ## How to Submit Code<a id="how-to-submit-code"></a>
-1. All work is started based on an opened [Feature Request](#how-to-open-a-feature-request) Issue
+1. All work is started based on an opened [Feature Request](#how-to-open-a-feature-request) or [Studio Feature Request](#how-to-open-a-studio-feature-request) Issue
     * Will need to have the "approved" label and have not already been assigned
 2. Once you have an Issue that you would like to resolve you may wish to join the [Discord](https://discord.gg/zk3NZEc) server to see if any others are also working on the same Issue.
 3. [Fork](https://help.github.com/articles/fork-a-repo/) the repository for the Issue you are resolving
     * [Project](https://github.com/Enterlucent/open-space-game/)
     * [Studio](https://github.com/Enterlucent/open-space-game-studio/)
-4. Make any changes or additions to a new branch {your-github-user}-Issue{Issue-id} (ie mdwigley-Issue224)
+4. Make any changes or additions to a new branch {your-github-user}-Issue{Issue-id} (ie mdwigley-issue#224)
     * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
 5. Submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just your changes.
      Reference the original Issue that spawned this [Pull Request](https://help.github.com/articles/about-pull-requests/) within the description.
@@ -237,7 +237,7 @@ The title Artist, in this respect, covers a wide array of potential contributors
     * Will need to have the "approved" label and have not already been assigned
 2. Once you have an Issue that you would like to resolve you may wish to join the [Discord](https://discord.gg/zk3NZEc) server to see if any others are also working on the same Issue.
 3. [Fork](https://help.github.com/articles/fork-a-repo/) the [Studio](https://github.com/Enterlucent/open-space-game-studio) repository
-4. Make any changes or additions to a new branch {your-github-user}-Issue{Issue-id} (ie mdwigley-Issue224) of the "Internal" sub-module (./Assets/Internal/)
+4. Make any changes or additions to a new branch {your-github-user}-issue{issue-id} (ie mdwigley-issue#224) of the "Internal" sub-module (./Assets/Internal/)
     * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
 5. Submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just your changes.
     * Make sure to give it the label of 'assets'.
