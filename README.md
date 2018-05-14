@@ -5,6 +5,7 @@ Open-Space-Game is a mix genre game set in an open universe.  The goal of this p
 ## Getting Started
 * [Getting Information](CONTRIBUTING.md#how-to-get-information) - Where the documentation can be found
 * [Support Questions](CONTRIBUTING.md#how-to-open-a-support-question) - Check to see if any one else has had the same question.
+* [Doxygen](https://www.open-space-game.org/Documentation/Doxygen/html/index.html) - Documentation for Programmers
 * [Discord](https://discord.gg/zk3NZEc) - There is a project  chat server if you'd like to join it
 
 ## Prerequisites
@@ -16,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. [Clone](https://help.github.com/articles/cloning-a-repository/) a copy of the repository to your local system
 2. Launch UnityHub and "Open" the directory you cloned in step 1.
 
-<img src="Documentation/Images/README/unityhub.open.png" alt="Unity Hub 0.16.0" class="inline"/>
+<img src="/Documentation/Images/README/unityhub.open.png" alt="Unity Hub 0.16.0" class="inline"/>
 
 3. If this is your first time, Unity may need to install the [Project Version](./ProjectSettings/ProjectVersion.txt)
 
@@ -29,7 +30,7 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) for details on submitting work to th
 * **Michael Wigley** - *Programming* - [mdwigley](https://github.com/mdwigley)
 * **Ayla Duggan** - *Artist* - [aaduggan](https://github.com/aaduggan)
 
-See also the list of [contributors](https://github.com/mdwigley/open-space-game-sandbox/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/mdwigley/open-space-game/graphs/contributors) who participated in this project.
 
 ## License
 This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE.md) file for details.
