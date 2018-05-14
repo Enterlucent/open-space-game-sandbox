@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. [Clone](https://help.github.com/articles/cloning-a-repository/) a copy of the repository to your local system
 2. Launch UnityHub and "Open" the directory you cloned in step 1.
 
-![alt text](.github/IMAGES/README/unityhub.open.png "Unity Hub 0.16.0")
+<img src=".github/IMAGES/README/unityhub.open.png" alt="Unity Hub 0.16.0" class="inline"/>
 
 3. If this is your first time, Unity may need to install the [Project Version](./ProjectSettings/ProjectVersion.txt)
 
