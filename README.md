@@ -5,6 +5,7 @@ Open-Space-Game is a mix genre game set in an open universe.  The goal of this p
 ## Getting Started
 * [Getting Information](CONTRIBUTING.md#how-to-get-information) - Where the documentation can be found
 * [Support Questions](CONTRIBUTING.md#how-to-open-a-support-question) - Check to see if any one else has had the same question.
+* [Doxygen](Documentation/Doxygen/html/index.html) - Doxygen documentation for Programmers
 * [Discord](https://discord.gg/zk3NZEc) - There is a project  chat server if you'd like to join it
 
 ## Prerequisites
