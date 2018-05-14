@@ -131,7 +131,7 @@ Often, these skilled people come after a large part of the functionality of the 
     * [GitHub Pages](https://github.com/Enterlucent/open-space-game.github.io/)
 3. Create a new branch with the format 'issue#{issue-id}-{your-github-user}' `(ie issue#224-mdwigley)`
 4. Make any changes or additions to your new branch
-    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+    * Make sure to keep your fork in sync with the original repository
 5. When finished, submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just the changes in the Issue.
     * Others may ask questions or request changes so make sure to check back, or enable the notification options!
 6. The [Pull Request](https://help.github.com/articles/about-pull-requests/) will be reviewed and, if approved, will be merged.
@@ -174,7 +174,7 @@ When you have the next best feature for the open-space-game project you will fir
     * Also remember that not all features can be added into the game (but I'm sure we'll try!) and features need to be released in an orderly way so even if the feature is accepted it may not go in immediately.
 
 ## How to Open an Asset Request<a id="how-to-open-an-asset-request"></a>
-1. Determine if the same or similar [Asset Requests](https://github.com/Enterlucent/open-space-game-assets/issues?q=label%enhancement+is%3Aall+!label%3Adocumentation) already exists.
+1. Determine if the same or similar [Asset Requests](https://github.com/Enterlucent/open-space-game-assets/issues?q=label%3Aenhancement+is%3Aall+!label%3Adocumentation) already exists.
     * If one does exist, feel free to expand upon it by commenting on the Issue but **do not create a new one**.
 2. Create an [Asset Request](https://github.com/Enterlucent/open-space-game-assets/issues/new?template=Feature_request.md) on the Issues page.
     * If your Feature Request requires additional/changed documentation then a [Documentation Request](#how-to-open-a-documentation-request) is also required
@@ -185,7 +185,7 @@ When you have the next best feature for the open-space-game project you will fir
     * If there are multiple requests as a part of the feature, the feature will not be moved to the master branch until all dependent parts have been completed.
 
 ## How to Open a Studio Feature Request<a id="how-to-open-a-studio-request"></a>
-1. Determine if the same or similar [Studio Requests](https://github.com/Enterlucent/open-space-game-studio/issues?q=label%enhancement+is%3Aall+!label%3Adocumentation) already exists.
+1. Determine if the same or similar [Studio Requests](https://github.com/Enterlucent/open-space-game-studio/issues?q=label%3Aenhancement+is%3Aall+!label%3Adocumentation) already exists.
     * If one does exist, feel free to expand upon it by commenting on the Issue but **do not create a new one**.
 2. Create a [Studio Request](https://github.com/Enterlucent/open-space-game-studio/issues/new?template=Feature_request.md) on the Issues page.
     * If your Feature Request requires additional/changed documentation then a [Documentation Request](#how-to-open-a-documentation-request) is also required
@@ -237,7 +237,7 @@ Programmers are responsible for implementing the features presented by Game Desi
     * [Studio](https://github.com/Enterlucent/open-space-game-studio/)
 3. Create a new branch with the format 'issue#{issue-id}-{your-github-user}' `(ie issue#224-mdwigley)`
 4. Make any changes or additions to your new branch
-    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+    * Make sure to keep your fork in sync with the original repository
 5. When finished, submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just the changes in the Issue.
     * Others may ask questions or request changes so make sure to check back, or enable the notification options!
 6. The [Pull Request](https://help.github.com/articles/about-pull-requests/) will be reviewed and, if approved, will be merged.
@@ -262,7 +262,7 @@ The title Artist, in this respect, covers a wide array of potential contributors
 2. [Fork](https://help.github.com/articles/fork-a-repo/) the [Studio](https://github.com/Enterlucent/open-space-game-studio) repository
 3. Create a new branch with the format 'issue#{issue-id}-{your-github-user}' `(ie issue#224-mdwigley)`
 4. Make any changes or additions to your new branch
-    * [Fetch](https://help.github.com/articles/fetching-a-remote/) the origin branch often to ensure you stay in sync
+    * Make sure to keep your fork in sync with the original repository
 5. When finished, submit a [Pull Request](https://help.github.com/articles/about-pull-requests/) that includes just the changes in the Issue.
     * Others may ask questions or request changes so make sure to check back, or enable the notification options!
 6. The [Pull Request](https://help.github.com/articles/about-pull-requests/) will be reviewed and, if approved, will be merged.
