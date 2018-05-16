@@ -105,6 +105,7 @@ When the next prompt appears you will click the new button and then add for each
 
 ![alt text](./Images/Documentation/Dev.Env.Win10/environment.git.path4.png)
 
+
 After you have finished setting up the file paths you should click ok until you are back to the desktop and then have the computer reboot.
 
 ### Create Your GPG ID<a id="configure-gpg-id"></a>
